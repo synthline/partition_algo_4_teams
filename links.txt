@@ -1,0 +1,13 @@
+https://softwareengineering.stackexchange.com/questions/150732/strategy-algorithm-to-divide-fair-teams-based-on-history
+
+https://en.wikipedia.org/wiki/Partition_problem
+
+https://softwareengineering.stackexchange.com/questions/150732/strategy-algorithm-to-divide-fair-teams-based-on-history
+
+https://softwareengineering.stackexchange.com/questions/339405/algorithm-for-generating-2-random-teams-from-player-list-based-on-skill-level
+
+https://realpython.com/sorting-algorithms-python/
+
+https://www.keamk.com/random-team-generator
+
+https://stackoverflow.com/questions/9717278/algorithm-that-creates-teams-based-on-a-numeric-skill-value
